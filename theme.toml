@@ -1,0 +1,25 @@
+name = 'SuperMinimalTheme'
+license = 'unlicense'
+licenselink = 'https://unlicense.org'
+description = 'A Hugo theme based on Mike Mai's SuperMinimalCSS'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/lucadye/SuperMinimalTheme'
+
+# If you have a running demo of the theme
+demosite = 'https://lucadye.github.io/SuperMinimalTheme'
+
+# Taxonomy terms
+tags = ['minimal']
+# features = ['']
+
+# If the theme has a single author
+[author]
+  name = 'Luca Dye'
+  homepage = 'https://www.lucadye.com/'
+
+# If porting an existing theme
+[original]
+  author = 'Mike Mai'
+  homepage = 'https://www.mikemai.net/'
+  repo = 'https://codepen.io/mikemai2awesome/pen/KKvMZVz'
