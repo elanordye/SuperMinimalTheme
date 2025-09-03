@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'SuperMinimalDemoSite'
+copyright = '© Nobody. Just use this as you like.'
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -12,14 +13,9 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
+name = 'SuperMinimalCSS'
+pageRef = '/superminimalcss'
 weight = 20
-
-[[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
-weight = 30
 
 [module]
   [module.hugoVersion]
