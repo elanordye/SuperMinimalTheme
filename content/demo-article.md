@@ -2,7 +2,6 @@
 title = 'Demo Article'
 date = 2025-09-03T09:00:00-00:00
 draft = false
-tags = ['red','green']
 +++
 
 This is demo article that was originally written by Mike Mai, the creator of SuperMinimalCSS.
