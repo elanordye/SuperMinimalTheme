@@ -1,25 +1,25 @@
-name = 'SuperMinimalTheme'
-license = 'unlicense'
-licenselink = 'https://unlicense.org'
-description = 'A Hugo theme based on Mike Mai's SuperMinimalCSS'
+name = "SuperMinimalTheme"
+license = "unlicense"
+licenselink = "https://unlicense.org"
+description = "A Hugo theme based on Mike Mai's SuperMinimalCSS"
 
 # The home page of the theme, where the source can be found
-homepage = 'https://github.com/elanordye/SuperMinimalTheme'
+homepage = "https://github.com/elanordye/SuperMinimalTheme"
 
 # If you have a running demo of the theme
-demosite = 'https://elanordye.github.io/SuperMinimalTheme'
+demosite = "https://elanordye.github.io/SuperMinimalTheme"
 
 # Taxonomy terms
-tags = ['minimal']
-# features = ['']
+tags = ["minimal"]
+# features = [""]
 
 # If the theme has a single author
 [author]
-  name = 'Elanor Dye'
-  homepage = 'https://www.github.com/elanordye'
+  name = "Elanor Dye"
+  homepage = "https://www.github.com/elanordye"
 
 # If porting an existing theme
 [original]
-  author = 'Mike Mai'
-  homepage = 'https://www.mikemai.net/'
-  repo = 'https://codepen.io/mikemai2awesome/pen/KKvMZVz'
+  author = "Mike Mai"
+  homepage = "https://www.mikemai.net/"
+  repo = "https://codepen.io/mikemai2awesome/pen/KKvMZVz"
