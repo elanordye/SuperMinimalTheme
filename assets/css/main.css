@@ -688,6 +688,7 @@
     }
 
     > nav {
+      width: 100%;
       ul {
         display: flex;
         flex-wrap: wrap;
